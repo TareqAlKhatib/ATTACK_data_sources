@@ -9,7 +9,7 @@ The aim here is to create a prioritized list of data sources that is based on ob
 1. Prioritize sources by the number of subtechniques.
 1. Prioritize source by the number of techniques.
 
-TODO: Link to Medium Post
+https://medium.com/@tareq.alkhatib/are-we-using-mitre-att-ck-data-sources-wrong-13cac16d7531 
 
 | Data Source | Sub Source | Collectable | Num of Sensors | Volume | Polymorphic | Num of Techniques | Num of Subtechniques | Notes |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|
